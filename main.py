@@ -53,7 +53,7 @@ def video_sync():
     #The while loop is created to run the webcam. But before the while loop we have to create a video capture object so that we can grab frames from the webcam.
 
 
-    video_capture = cv2.VideoCapture(1)
+    video_capture = cv2.VideoCapture(0)
 
     #Webcam Image
     #First we will read the image from the webcam and then resize it to quarter the size. This is done to increase the speed of the system. Even though the image being used is 1/4 th of the original, we will still use the original size while displaying. Next we will convert it to RGB.
