@@ -71,7 +71,7 @@ $ pip install PyAutoGUI
 $ pip install Pillow
 $ pip install imutils
 $ pip install numpy
-$ pip install dlib
+$ pip install dlib==19.18
 $ pip install cmake
 ```
 
