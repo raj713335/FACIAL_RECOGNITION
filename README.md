@@ -73,6 +73,8 @@ $ pip install imutils
 $ pip install numpy
 $ pip install dlib==19.18
 $ pip install cmake
+$ pip install psutil
+$ pip install tensorflow
 ```
 
 ### List of Python packages taht are being used in the Application
@@ -88,6 +90,7 @@ from threading import Thread
 import pyautogui
 import os
 from datetime import date
+import psutil
 ```
 
 
