@@ -54,7 +54,7 @@ def display():
 
 
 
-            cap = cv2.VideoCapture(1)
+            cap = cv2.VideoCapture(0)
 
             def video_stream():
                 if (cap.get(cv2.CAP_PROP_FRAME_COUNT) == cap.get(cv2.CAP_PROP_POS_FRAMES)):
