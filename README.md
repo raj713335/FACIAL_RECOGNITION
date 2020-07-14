@@ -33,9 +33,9 @@ Facial Recognition software to recognise faces and make a Attendence .
 
 ### SAMPLE RESULT IMAGES
 <p align="center">
-    <img src="DEMO/1.png", width="400">
+    <img src="DEMO/2.png", width="400">
     <img src="DEMO/3.png"g", width="400">
-    <img src="DEMO/2.png"", width="400">
+    <img src="DEMO/1.png"", width="400">
     <br>
     <sup></sup>
 </p>
