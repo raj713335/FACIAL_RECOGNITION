@@ -77,7 +77,7 @@ $ pip install psutil
 $ pip install tensorflow
 ```
 
-### List of Python packages taht are being used in the Application
+### List of Python packages that are being used in the Application
 
 ```sh
 from tkinter import *
