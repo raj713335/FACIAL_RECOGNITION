@@ -26,24 +26,18 @@ Facial Recognition software to recognise faces and make a Attendence .
 
 
 
-### SAMPLE RESULT
-
-<p align="center">
-    <img src="DEMO/sample.gif", width="800">
-    <br>
-    <sup><a href="https://github.com/raj713335/FACIAL_RECOGNITION" target="_blank"><strong>EYEXA</strong></a></sup>
-</p>
 
 
 
 
-### SAMPLE IMAGES
+
+### SAMPLE RESULT IMAGES
 <p align="center">
     <img src="DEMO/1.png", width="400">
-    <img src="DEMO/2.png"g", width="400">
-    <img src="DEMO/3.png"", width="400">
+    <img src="DEMO/3.png"g", width="400">
+    <img src="DEMO/2.png"", width="400">
     <br>
-    <sup>1.Social Distancing Violation but Mask are on (Left) 2.Social Distancing Violation and Mask are off(Right)3. All Ok (Down)</sup>
+    <sup></sup>
 </p>
 
 
@@ -58,7 +52,7 @@ Facial Recognition software to recognise faces and make a Attendence .
 - Clone the repo and cd into the directory
 ```sh
 $ git clone https://github.com/raj713335/FACIAL_RECOGNITION.git
-$ cd EYEXA
+$ cd FACIAL_RECOGNITION
 ```
 
 
@@ -68,7 +62,7 @@ $ cd EYEXA
 
 
 
-### Install tensorflow and all the other required libraries 
+### Install Computer Vision and all the other required libraries 
 
 ```sh
 $ pip install EasyTkinter
@@ -77,6 +71,8 @@ $ pip install PyAutoGUI
 $ pip install Pillow
 $ pip install imutils
 $ pip install numpy
+$ pip install dlib
+$ pip install cmake
 ```
 
 ### List of Python packages taht are being used in the Application
