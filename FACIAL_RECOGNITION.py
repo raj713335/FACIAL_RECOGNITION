@@ -9,6 +9,7 @@ import pyautogui
 from main import video_sync
 import os
 from datetime import date
+import sys
 
 
 global version
