@@ -1,5 +1,5 @@
 # FACIAL_RECOGNITION
-Facial Recognition software to recognise faces and make a Attendence .
+Facial Recognition software to recognise faces and make a Attendence.
 
 
 <p align="center">
